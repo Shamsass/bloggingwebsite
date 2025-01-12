@@ -5,7 +5,7 @@ import Hero from "@/Components/Hero";
 import Footer from  "@/Components/Footer"
 import {client} from "@/sanity/lib/client";
    import {Image} from "sanity";
- import { postcss } from "tailwindcss";
+     import { postcss } from "tailwindcss";
 
 
 
